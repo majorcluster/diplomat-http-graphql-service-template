@@ -1,0 +1,5 @@
+{:objects {:Foo {:fields {:a {:type String}
+                          :state {:type String}}}}
+ :queries
+ {:foo
+  {:type :Foo}}}
